@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>ButtonForm.ui.qml</file>
+        <file>LeftBar.qml</file>
+        <file>LeftBarForm.ui.qml</file>
+        <file>RightBar.qml</file>
+        <file>RightBarForm.ui.qml</file>
+        <file>TopBar.qml</file>
+        <file>TopBarForm.ui.qml</file>
+        <file>BottomBar.qml</file>
+        <file>BottomBarForm.ui.qml</file>
+    </qresource>
+</RCC>
